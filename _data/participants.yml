@@ -1,0 +1,225 @@
+- name: Marco
+  surname: Abbadini
+  affiliation: Catholic University of Louvain
+- name: Stefano
+  surname: Ambra
+  affiliation: Università degli Studi di Milano
+- name: Maria
+  surname: Bevilacqua
+  affiliation: UCLouvain
+- name: Luigi
+  surname: Caputi
+  affiliation: University of Bologna
+- name: Luca
+  surname: Carai
+  affiliation: University of Milan
+- name: Riccardo
+  surname: Carettoni
+  affiliation: Università di Torino
+- name: Eleftherios
+  surname: Chatzitheodoridis
+  affiliation: University of Virginia
+- name: Greta
+  surname: Coraglia
+  affiliation: MIRAI srl
+- name: Ivan
+  surname: Di Liberti
+  affiliation: Gothenburg University
+- name: Dennis
+  surname: Frieberg
+  affiliation: Chapman University
+- name: Logan
+  surname: Geenis
+  affiliation: IRMP
+- name: Marino
+  surname: Gran
+  affiliation: UCLouvain
+- name: Francesca
+  surname: Guffanti
+  affiliation: Université Savoie Mont Blanc
+- name: Amar
+  surname: Hadzihasanovic
+  affiliation: Tallinn University of Technology
+- name: Stefano
+  surname: Kasangian
+  affiliation: Università di Milano
+- name: Ivan
+  surname: Kobe
+  affiliation: University of Ljubljana
+- name: Gabriele
+  surname: Lobbia
+  affiliation: Università degli Studi di Milano
+- name: Fosco
+  surname: Loregian
+  affiliation: Tallinn University of Technology
+- name: Stefano
+  surname: Luneia
+  affiliation: University of Massachusetts Amherst
+- name: Samuele
+  surname: Maschio
+  affiliation: Università di Padova
+- name: Giuseppe
+  surname: Metere
+  affiliation: Università degli Studi di Milano.
+- name: Antonio Michele
+  surname: Miti
+  affiliation: Sapienza Università di Roma
+- name: Andrea
+  surname: Montoli
+  affiliation: Università degli Studi di Milano
+- name: Guglielmo
+  surname: Nocera
+  affiliation: Institut des Hautes Études Scientifiques
+- name: Daniele
+  surname: Palombi
+  affiliation: 
+- name: Fabio
+  surname: Pasquali
+  affiliation: University of Milan
+- name: Emanuele
+  surname: Pavia
+  affiliation: Université du Luxembourg
+- name: Paolo
+  surname: Perrone
+  affiliation: University of Oxford
+- name: Federica
+  surname: Piazza
+  affiliation: Università degli studi di Palermo
+- name: Francesca
+  surname: Pratali
+  affiliation: Université Sorbonne Paris Nord
+- name: Stefano
+  surname: Rosarin
+  affiliation: University of Genoa
+- name: Luca
+  surname: Reggio
+  affiliation: Università degli Studi di Milano
+- name: Michele
+  surname: Riva
+  affiliation: University of Manchester
+- name: Chiara
+  surname: Sava
+  affiliation: Charles University
+- name: Andrea
+  surname: Sciandra
+  affiliation: University of Turin
+- name: Luca
+  surname: Spada
+  affiliation: Università di Salerno
+- name: Umberto
+  surname: Tarantino
+  affiliation: IRIF - Université Paris Cité
+- name: Francesco
+  surname: Tognetti
+  affiliation: University of Luxembourg
+- name: Corentin
+  surname: Vienne
+  affiliation: WBI
+- name: Marco
+  surname: Volpe
+  affiliation: University of Regensburg
+- name: Vito
+  surname: Volpe
+  affiliation: Università degli studi di Milano
+- name: Joshua
+  surname: Wrigley
+  affiliation: Université Paris Cité
+- name: Giovanni
+  surname: Zanin
+  affiliation: Universität Regensburg - Università degli Studi di Padova
+- name: Giacomo
+  surname: Tendas
+  affiliation: The University of Manchester
+- name: Sandra
+  surname: Mantovani
+  affiliation: Università degli studi di Milano
+- name: Andrea
+  surname: Cappelletti
+  affiliation: Università degli Studi di Salerno
+- name: Nicola
+  surname: Carissimi
+  affiliation: Université de Lille
+- name: François
+  surname: Cayphas
+  affiliation: UCLouvain
+- name: Tommaso
+  surname: Toccotelli
+  affiliation: 
+- name: Andrea
+  surname: Giusto
+  affiliation: Università di Genova
+- name: Francesco
+  surname: Dagnino
+  affiliation: Università di Genova
+- name: Enrico
+  surname: Vitale
+  affiliation: UCLouvain
+- name: Jacopo
+  surname: Emmenegger
+  affiliation: Università di Genova
+- name: Arturo
+  surname: De Faveri
+  affiliation: Université Paris Cité, CNRS, IRIF
+- name: Fiona
+  surname: Torzewska
+  affiliation: University of Bristol
+- name: Marco
+  surname: Alorti
+  affiliation: Università degli Studi di Milano
+- name: Alan
+  surname: Cigoli
+  affiliation: Università di Torino
+- name: Igor
+  surname: Baković
+  affiliation: Independent
+- name: Matteo
+  surname: Spadetto
+  affiliation: Nantes Université
+- name: Andrea
+  surname: Donati
+  affiliation: ''
+- name: Elena
+  surname: Di Lavore
+  affiliation: University of Oxford
+- name: Tim
+  surname: Lüders 
+  affiliation: University of Vienna
+- name: Andrea
+  surname: Gagna
+  affiliation: MSD
+- name: claudio
+  surname: pisani
+  affiliation: Liceo Gioberti
+- name: Tomáš
+  surname: Vítek
+  affiliation: Charles University, Prague
+- name: Ülo
+  surname: Reimaa
+  affiliation: University of Tartu
+- name: Giuseppe
+  surname: Leoncini
+  affiliation: Milano - Masaryk
+- name: Andrea
+  surname: Fontana
+  affiliation: Universita' degli Studi di Milano
+- name: Niccolò
+  surname: Fumai
+  affiliation: Università degli Studi di Milano
+- name: Lea
+  surname: Trogni
+  affiliation: Unimi
+- name: Matteo
+  surname: Galbiati
+  affiliation: Università di Milano
+- name: Elia
+  surname: Praderio
+  affiliation: Unimi
+- name: Roo
+  surname: Yadav
+  affiliation: Eindhoven University Of Technology
+- name: Paolo
+  surname: Tommasini 
+  affiliation: Université du Luxembourg
+- name: Vincenzo
+  surname: Marra
+  affiliation: Università degli Studi di Milano 

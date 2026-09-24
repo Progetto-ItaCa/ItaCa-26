@@ -1,0 +1,8 @@
+{{ t.author.name }} {{ t.author.surname }} {%- if t.author.affiliation %} ({{ t.author.affiliation }}) {%- endif %}  
+**{{ t.title }}** <br/> 
+{%- if t.abs %}
+[abstract]({{ t.abs | prepend: '/assets/abstracts/' | relative_url }}){:target="_blank"}
+{% if t.slides %} • [slides]({{ t.slides | prepend: '/assets/slides/' | relative_url }}){:target="_blank"} {% endif -%} 
+{% if t.video %} • [video]({{ t.video }}){:target="_blank"} {% endif %} 
+{% endif %}
+

@@ -1,0 +1,8 @@
+GemFile.lock
+_site/
+.bundle/
+*.nix 
+
+*.csv
+*.py
+_data/old.*
