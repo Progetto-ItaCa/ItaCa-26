@@ -35,11 +35,11 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - programme.md
-  - speakers.md
-  - participants.md
-  - sub-reg.md
-  - venue.md
+#  - programme.md
+#  - speakers.md
+#  - participants.md
+#  - sub-reg.md
+#  - venue.md
 
 
 # Exclude from processing.
