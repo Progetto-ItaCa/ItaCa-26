@@ -81,35 +81,45 @@ table, th, td {
 
 table {
   color: #272b2e;
-  border: none;
+  border: none !important;
+  box-shadow: none;
+  border-collapse: collapse;
 }
 
 table tr,
 table tr:nth-child(even),
 table tr:nth-child(odd) {
-  background-color: transparent;
+  background-color: transparent !important;
+  border: none !important;
 }
 
 table th,
 table td {
-  border: none;
-  border-bottom: 1px solid rgba(53, 30, 36, 0.25);
+  background-color: transparent !important;
+  border: none !important;
+  border-bottom: 1px solid rgba(53, 30, 36, 0.25) !important;
   padding: 0.7rem 0.4rem;
 }
 
+table tr:last-child th,
 table tr:last-child td {
-  border-bottom: none;
+  border-bottom: none !important;
 }
-
 
 /* Footer */
 
 .site-footer {
   background-color: transparent;
-  border-top: 0.2rem solid #351E24;
-  padding: 1rem 0;
+  border-top: none !important;
+  padding: 0;
   margin-top: 3rem;
   color: #272b2e;
+}
+
+.site-footer .wrapper {
+  border-top: 0.2rem solid #351E24;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 .workshop-footer {
