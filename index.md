@@ -32,7 +32,7 @@ For inquiries, please send an e-mail to one of the organisers.
 ## Program Committee
 * Giuseppe Metere (chair, Università degli Studi di Milano)
 * Francesco Dagnino (Università degli Studi di Genova) 
-* Jacopo Emmenegger (Università degli Studi di Roma ``La Sapienza'') 
+* Jacopo Emmenegger (Università degli Studi di Roma "La Sapienza") 
 * Andrea Gagna (MSD)
 * Francesca Guffanti (Université Savoie-Mont-Blanc)
 * Valerio Melani (Università degli Studi di Firenze)
