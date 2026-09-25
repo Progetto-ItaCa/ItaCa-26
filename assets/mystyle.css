@@ -114,6 +114,9 @@ footer {
 	align-items: baseline;
 	width: 100%;
 	gap: 1rem;
+	padding-left: 0.4rem;
+	padding-right: 0.4rem;
+	box-sizing: border-box;
 }
 
 @media (max-width: 600px) {
