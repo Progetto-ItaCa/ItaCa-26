@@ -12,8 +12,6 @@ The registration deadline is **December 8**.
 
 Participation is free of charge, but registration is mandatory. 
 
-Registration is now closed. For questions, please contact the organizers. 
-
 {% comment %} 
 ## Submission of talk proposals
 

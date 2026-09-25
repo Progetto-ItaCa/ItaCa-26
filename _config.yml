@@ -20,7 +20,7 @@
 
 title: ItaCa 2026
 # email: your-email@example.com
-description: 6th ItaCa Workshop # >- # this means to ignore newlines until "baseurl:"
+description: 7th ItaCa Workshop # >- # this means to ignore newlines until "baseurl:"
 baseurl: "/ItaCa-26" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author:
@@ -38,8 +38,8 @@ header_pages:
 #  - programme.md
 #  - speakers.md
 #  - participants.md
-#  - sub-reg.md
-#  - venue.md
+- sub-reg.md
+- venue.md
 
 
 # Exclude from processing.
