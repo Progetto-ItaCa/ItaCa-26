@@ -85,8 +85,12 @@ table tr:last-child td {
 
 /* FOOTER */
 
+.page-content {
+	padding-bottom: 1.5rem;
+}
+
 footer {
-	margin-top: 3rem;
+	margin-top: 0;
 	padding: 0;
 	border-top: none;
 	font-size: 1.2rem;
@@ -95,19 +99,27 @@ footer {
 
 .site-footer {
 	border-top: none !important;
-	padding: 0;
+	padding: 0 0 1.2rem 0;
 }
 
-.site-footer .wrapper {
+.footer-rule {
+	width: 100%;
 	border-top: 0.2rem solid #351E24;
-	padding-top: 1.2rem;
-	padding-bottom: 1.2rem;
+	margin-bottom: 1.2rem;
 }
 
 .workshop-footer {
 	display: flex;
 	justify-content: space-between;
+	align-items: baseline;
+	width: 100%;
 	gap: 1rem;
+}
+
+@media (max-width: 600px) {
+	.workshop-footer {
+		flex-direction: column;
+	}
 }
 
 
