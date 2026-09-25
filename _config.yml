@@ -59,8 +59,8 @@ exclude:
   - speakers.md 
   - participants.md
   - programme.md
-  - sub-reg.md 
-  - venue.md 
+#  - sub-reg.md 
+#  - venue.md 
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
