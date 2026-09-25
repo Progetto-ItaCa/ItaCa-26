@@ -52,13 +52,3 @@ For inquiries, please send an e-mail to one of the organisers.
 * [ItaCa 2022](https://progetto-itaca.github.io/ItaCa-22/) 
 * [ItaCa 2021](https://genoa-logic-group.github.io/itaca-workshop-2021/)
 * [ItaCa 2019](http://www.mat.unimi.it/users/itaca/) 
-
----
-
-
-
-
-
-
-
-

@@ -1,0 +1,87 @@
+---
+
+@import "minima";
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Montserrat&display=swap');
+
+/* ItaCa colours */
+$cream: #FCE8AD;
+$brown: #351E24;
+$terracotta: #97492C;
+
+/* General look */
+body {
+  background-color: $cream;
+  color: #272b2e;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3 {
+  color: $brown;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a,
+a:visited {
+  color: $terracotta;
+}
+
+a:hover {
+  color: $brown;
+}
+
+/* Header */
+.site-header {
+  border-top: none;
+  border-bottom: 0.2rem solid $brown;
+}
+
+.site-title,
+.site-title:visited,
+.site-nav .page-link {
+  color: $terracotta;
+}
+
+/* Important Dates table */
+table {
+  color: #272b2e;
+  border: none;
+}
+
+table tr,
+table tr:nth-child(even),
+table tr:nth-child(odd) {
+  background: transparent;
+}
+
+table th,
+table td {
+  border: none;
+  border-bottom: 1px solid rgba(53, 30, 36, 0.25);
+  padding: 0.7rem 0.4rem;
+}
+
+table tr:last-child td {
+  border-bottom: none;
+}
+
+/* Footer */
+.site-footer {
+  background: transparent;
+  border-top: 0.2rem solid $brown;
+  padding: 1rem 0;
+  margin-top: 3rem;
+  color: #272b2e;
+}
+
+.workshop-footer {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 600px) {
+  .workshop-footer {
+    flex-direction: column;
+  }
+}
