@@ -118,9 +118,17 @@ This year, the workshop takes place in Firenze. The program will start on the mo
 For inquiries, please send an e-mail to one of the organisers. 
 
 ## Past Editions 
-* [ItaCa 2025](https://progetto-itaca.github.io/ItaCa-25/) 
-* [ItaCa 2024](https://progetto-itaca.github.io/ItaCa-24/) 
-* [ItaCa 2023](https://progetto-itaca.github.io/ItaCa-23/) 
-* [ItaCa 2022](https://progetto-itaca.github.io/ItaCa-22/) 
-* [ItaCa 2021](https://genoa-logic-group.github.io/itaca-workshop-2021/)
-* [ItaCa 2019](http://www.mat.unimi.it/users/itaca/) 
+
+<div class="past-editions">
+  <a href="https://progetto-itaca.github.io/ItaCa-25/">2025</a>
+  <span>·</span>
+  <a href="https://progetto-itaca.github.io/ItaCa-24/">2024</a>
+  <span>·</span>
+  <a href="https://progetto-itaca.github.io/ItaCa-23">2023</a>
+  <span>·</span>
+  <a href="https://progetto-itaca.github.io/ItaCa-22">2022</a>
+  <span>·</span>
+  <a href="https://genoa-logic-group.github.io/itaca-workshop-2021">2021</a>
+  <span>·</span>
+  <a href="http://www.mat.unimi.it/users/itaca">2019</a>
+</div>

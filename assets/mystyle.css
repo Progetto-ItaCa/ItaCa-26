@@ -251,6 +251,14 @@ footer {
 	}
 }
 
+/* PAST EDITIONS */ 
+
+.past-editions {
+	font-family: 'Open Sans', sans-serif;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.6rem;
+}
 
 /* RESPONSIVE */
 
