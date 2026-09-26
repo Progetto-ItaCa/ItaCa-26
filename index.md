@@ -28,26 +28,88 @@ For inquiries, please send an e-mail to one of the organisers.
 <div markdown="1">
 
 ## Program Committee
-* Giuseppe Metere (chair) · Università degli Studi di Milano
-* Francesco Dagnino · Università degli Studi di Genova
-* Jacopo Emmenegger · Università degli Studi di Roma "La Sapienza" 
-* Andrea Gagna · MSD
-* Francesca Guffanti · Université Savoie-Mont-Blanc
-* Valerio Melani · Università degli Studi di Firenze
-* Paolo Perrone · University of Oxford
-* Giacomo Tendas · University of Manchester
+
+<ul class="committee-list">
+  <li>
+    <span class="committee-name">Giuseppe Metere (chair)</span>
+    <span class="committee-affiliation">Università degli Studi di Milano</span>
+  </li>
+
+  <li>
+    <span class="committee-name">Francesco Dagnino</span>
+    <span class="committee-affiliation">Università degli Studi di Genova</span>
+  </li>
+
+  <li>
+    <span class="committee-name">Jacopo Emmenegger</span>
+    <span class="committee-affiliation">Università degli Studi di Roma "La Sapienza"</span>
+  </li>
+
+  <li>
+    <span class="committee-name">Andrea Gagna</span>
+    <span class="committee-affiliation">MSD</span>
+  </li>
+
+  <li>
+    <span class="committee-name">Francesca Guffanti</span>
+    <span class="committee-affiliation">Université Savoie-Mont-Blanc</span>
+  </li>
+
+  <li>
+    <span class="committee-name">Valerio Melani</span>
+    <span class="committee-affiliation">Università degli Studi di Firenze</span>
+  </li>
+
+  <li>
+    <span class="committee-name">Paolo Perrone</span>
+    <span class="committee-affiliation">University of Oxford</span>
+  </li>
+
+  <li>
+    <span class="committee-name">Giacomo Tendas</span>
+    <span class="committee-affiliation">University of Manchester</span>
+  </li>
+
+</ul>
 
 </div>
 
 <div markdown="1">
 
 ## Organising Committee 
-* Marco Maggesi (chair) · Università degli Studi di Firenze
-* Matteo Calosci · Università degli Studi di Firenze
-* Gabriele Lobbia · Università degli Studi di Milano
-* Valerio Melani · Università degli Studi di Firenze
-* Umberto Tarantino · IRIF, Université Paris Cité
-* Gabriele Vezzosi · Università degli Studi di Firenze
+
+
+<ul class="committee-list">
+  <li>
+    <span class="committee-name">Marco Maggesi (chair) </span>
+    <span class="committee-affiliation">Università degli Studi di Firenze</span>
+  </li>
+
+  <li>
+    <span class="committee-name">Matteo Calosci</span>
+    <span class="committee-affiliation">Università degli Studi di Firenze</span>
+  </li>
+
+  <li>
+    <span class="committee-name">Gabriele Lobbia</span>
+    <span class="committee-affiliation">Università degli Studi di Milano</span>
+  </li>
+
+  <li>
+    <span class="committee-name">Valerio Melani</span>
+    <span class="committee-affiliation">Università degli Studi di Firenze</span>
+  </li>
+
+  <li>
+    <span class="committee-name">Umberto Tarantino</span>
+    <span class="committee-affiliation">IRIF, Université Paris Cité</span>
+  </li>
+
+  <li>
+    <span class="committee-name">Gabriele Vezzosi</span>
+    <span class="committee-affiliation">Università degli Studi di Firenze</span>
+  </li>
+</ul>
 
 </div>
 

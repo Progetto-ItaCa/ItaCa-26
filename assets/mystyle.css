@@ -174,14 +174,24 @@ table tr:last-child td {
 	align-items: start;
 }
 
-.committee-grid ul {
-	margin-left: 1.8rem;
+.committee-list {
+    margin-left: 1.8rem;
 }
 
-.committee-grid li {
-	font-size: 1.45rem;
-	line-height: 1.45;
-	margin-bottom: 0.4rem;
+.committee-list li {
+    margin-bottom: 0.8rem;
+}
+
+.committee-name {
+    display: block;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.committee-affiliation {
+    display: block;
+    font-size: 1.35rem;
+    line-height: 1.35;
 }
 
 /* FOOTER */
