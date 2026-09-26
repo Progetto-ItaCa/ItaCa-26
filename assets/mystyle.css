@@ -52,6 +52,17 @@ nav a {
 	text-decoration: none;
 }
 
+/* HEADER */
+
+.site-header {
+	border-top: none !important;
+	border-bottom: none !important;
+}
+
+.site-header .wrapper {
+	border-bottom: 0.2rem solid #351E24;
+}
+
 
 /* IMPORTANT DATES TABLE */
 
