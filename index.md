@@ -25,22 +25,22 @@ For inquiries, please send an e-mail to one of the organisers.
 
 
 ## Program Committee
-* Giuseppe Metere (chair, Università degli Studi di Milano)
-* Francesco Dagnino (Università degli Studi di Genova) 
-* Jacopo Emmenegger (Università degli Studi di Roma "La Sapienza") 
-* Andrea Gagna (MSD)
-* Francesca Guffanti (Université Savoie-Mont-Blanc)
-* Valerio Melani (Università degli Studi di Firenze)
-* Paolo Perrone (University of Oxford)
-* Giacomo Tendas (University of Manchester)
+* Giuseppe Metere (chair) · Università degli Studi di Milano
+* Francesco Dagnino · Università degli Studi di Genova
+* Jacopo Emmenegger · Università degli Studi di Roma "La Sapienza" 
+* Andrea Gagna · MSD
+* Francesca Guffanti · Université Savoie-Mont-Blanc
+* Valerio Melani · Università degli Studi di Firenze
+* Paolo Perrone · University of Oxford
+* Giacomo Tendas · University of Manchester
 
 ## Organising Committee 
-* Marco Maggesi (chair, Università degli Studi di Firenze) 
-* Matteo Calosci (Università degli Studi di Firenze)
-* Gabriele Lobbia (Università degli Studi di Milano)
-* Valerio Melani (Università degli Studi di Firenze)
-* Umberto Tarantino (IRIF, Université Paris Cité)
-* Gabriele Vezzosi (Università degli Studi di Firenze)
+* Marco Maggesi (chair) · Università degli Studi di Firenze
+* Matteo Calosci · Università degli Studi di Firenze
+* Gabriele Lobbia · Università degli Studi di Milano
+* Valerio Melani · Università degli Studi di Firenze
+* Umberto Tarantino · IRIF, Université Paris Cité
+* Gabriele Vezzosi · Università degli Studi di Firenze
 
 ## Past Editions 
 * [ItaCa 2025](https://progetto-itaca.github.io/ItaCa-25/) 

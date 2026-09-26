@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5 {
 .workshop-subtitle {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 1.7rem;
-	font-weight: bold;
+	font-weight: 600;
 	color: #97492C;
 	margin-top: -0.8rem;
 	margin-bottom: 2.2rem;
@@ -80,6 +80,35 @@ nav a {
 	border-bottom: 0.2rem solid #351E24;
 	padding-top: 0.8rem;
 	padding-bottom: 0.8rem;
+}
+
+.workshop-brand {
+	display: flex;
+	align-items: center;
+	gap: 1rem;
+}
+
+.workshop-logo {
+	display: flex;
+	align-items: center;
+}
+
+.workshop-logo img {
+	display: block;
+	height: 42px;
+	width: auto;
+}
+
+.workshop-home {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.7rem;
+	font-weight: 600;
+	color: #97492C;
+	text-decoration: none;
+}
+
+.workshop-home:hover {
+	color: #272b2e;
 }
 
 
