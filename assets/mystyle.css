@@ -12,6 +12,7 @@ html {
 
 body {
 	font-size: 1.6rem;
+	line-height: 1.6;
 	background-color: #FCE8AD;
 	color: #272b2e;
 }
@@ -26,6 +27,13 @@ tbody, li, ul, table {
 
 h1, h2, h3, h4, h5 {
 	color: #351E24;
+}
+
+/* SECTION SPACING */
+
+.page-content h2 {
+	margin-top: 2.8rem;
+	margin-bottom: 1.2rem;
 }
 
 /* PAGE TITLES */
@@ -115,10 +123,6 @@ nav a {
 	color: #272b2e;
 }
 
-.workshop-brand {
-	float: left;
-}
-
 .site-nav .page-link {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 1.7rem;
@@ -187,6 +191,12 @@ table tr:last-child td {
 	grid-template-columns: 1fr 1fr;
 	gap: 3rem;
 	align-items: start;
+	margin-top: 2.8rem;
+}
+
+.committee-grid h2 {
+	margin-top: 0;
+	margin-bottom: 1.2rem;
 }
 
 .committee-list {
@@ -243,12 +253,6 @@ footer {
 	padding-left: 0.4rem;
 	padding-right: 0.4rem;
 	box-sizing: border-box;
-}
-
-@media (max-width: 600px) {
-	.workshop-footer {
-		flex-direction: column;
-	}
 }
 
 /* PAST EDITIONS */ 
