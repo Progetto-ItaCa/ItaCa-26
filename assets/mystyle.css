@@ -165,6 +165,17 @@ table tr:last-child td {
 	border-bottom: none !important;
 }
 
+/* PROGRAMME TABLE */
+
+.important-dates td:first-child {
+	font-weight: 600;
+}
+
+.important-dates td:last-child {
+	text-align: right;
+	white-space: nowrap;
+}
+
 /* COMMITTEES */
 
 .committee-grid {
