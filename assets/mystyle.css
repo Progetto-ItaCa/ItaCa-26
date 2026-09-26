@@ -165,6 +165,24 @@ table tr:last-child td {
 	border-bottom: none !important;
 }
 
+/* COMMITTEES */
+
+.committee-grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 3rem;
+	align-items: start;
+}
+
+.committee-grid ul {
+	margin-left: 1.8rem;
+}
+
+.committee-grid li {
+	font-size: 1.45rem;
+	line-height: 1.45;
+	margin-bottom: 0.4rem;
+}
 
 /* FOOTER */
 
@@ -232,5 +250,25 @@ footer {
 
 	.workshop-footer {
 		flex-direction: column;
+	}
+
+	.committee-grid {
+		grid-template-columns: 1fr;
+		gap: 0;
+	}
+
+	.committee-grid li {
+		font-size: 1.6rem;
+	}
+}
+
+/* MAIN CONTENT WIDTH */
+
+@media (min-width: 800px) {
+	.page-content .wrapper,
+	.site-footer .wrapper {
+		max-width: 770px;
+		padding-left: 15px;
+		padding-right: 15px;
 	}
 }

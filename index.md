@@ -23,6 +23,9 @@ This year, the workshop takes place in Firenze. The program will start on the mo
 
 For inquiries, please send an e-mail to one of the organisers. 
 
+<div class="committee-grid">
+
+<div markdown="1">
 
 ## Program Committee
 * Giuseppe Metere (chair) · Università degli Studi di Milano
@@ -34,6 +37,10 @@ For inquiries, please send an e-mail to one of the organisers.
 * Paolo Perrone · University of Oxford
 * Giacomo Tendas · University of Manchester
 
+</div>
+
+<div markdown="1">
+
 ## Organising Committee 
 * Marco Maggesi (chair) · Università degli Studi di Firenze
 * Matteo Calosci · Università degli Studi di Firenze
@@ -41,6 +48,10 @@ For inquiries, please send an e-mail to one of the organisers.
 * Valerio Melani · Università degli Studi di Firenze
 * Umberto Tarantino · IRIF, Université Paris Cité
 * Gabriele Vezzosi · Università degli Studi di Firenze
+
+</div>
+
+</div>
 
 ## Past Editions 
 * [ItaCa 2025](https://progetto-itaca.github.io/ItaCa-25/) 
