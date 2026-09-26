@@ -77,7 +77,7 @@ nav a {
 }
 
 .site-header .wrapper {
-	border-bottom: 0.2rem solid #351E24;
+	border-bottom: 0.3rem solid #351E24;
 	padding-top: 0.8rem;
 	padding-bottom: 0.8rem;
 }
@@ -117,6 +117,23 @@ nav a {
 
 .workshop-brand {
 	float: left;
+}
+
+.site-nav .page-link {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.7rem;
+	font-weight: 600;
+	color: #97492C;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+.site-nav .page-link:visited {
+	color: #97492C;
+}
+
+.site-nav .page-link:hover {
+	color: #272b2e;
 }
 
 /* IMPORTANT DATES TABLE */
@@ -170,7 +187,7 @@ footer {
 
 .footer-rule {
 	width: 100%;
-	border-top: 0.2rem solid #351E24;
+	border-top: 0.3rem solid #351E24;
 	margin-bottom: 1.2rem;
 }
 
