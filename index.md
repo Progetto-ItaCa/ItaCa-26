@@ -22,11 +22,6 @@ This year, the workshop takes place in Firenze. The program will start on the mo
 
 </div>
 
-
-## Contacts 
-
-For inquiries, please send an e-mail to one of the organisers. 
-
 <div class="committee-grid">
 
 <div markdown="1">
@@ -82,7 +77,6 @@ For inquiries, please send an e-mail to one of the organisers.
 
 ## Organising Committee 
 
-
 <ul class="committee-list">
   <li>
     <span class="committee-name">Marco Maggesi (chair) </span>
@@ -118,6 +112,10 @@ For inquiries, please send an e-mail to one of the organisers.
 </div>
 
 </div>
+
+## Contacts 
+
+For inquiries, please send an e-mail to one of the organisers. 
 
 ## Past Editions 
 * [ItaCa 2025](https://progetto-itaca.github.io/ItaCa-25/) 
