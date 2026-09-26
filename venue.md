@@ -38,7 +38,8 @@ If you travel by train, the main railway station is Firenze Santa Maria Novella 
 If you travel by bus, you can arrive at the main bus station, Villa Costanza, directly connected to the city centre by tram line T1. 
 
  
-### How to get to the venue.
+### How to get to the venue
+
 The venue is Centro Didattico Morgagni, viale Giovanni Battista Morgagni 40–44. The closest tram stop is Morgagni–Università, just a short walk from the entrance. 
 
 - From Florence Amerigo Vespucci Airport: take tram line T2 from Peretola Aeroporto towards the city centre and get off at Alamanni–Stazione. Change to tram line T1 towards Careggi–Ospedale and get off at Morgagni–Università. The venue is less than 100 metres from the stop. 
@@ -50,6 +51,7 @@ The venue is Centro Didattico Morgagni, viale Giovanni Battista Morgagni 40–44
 
 
 ###  Practical information
+
 A standard urban ticket in Florence is valid for 90 minutes and can be used on buses and trams. The current fare is €1.70. Tickets can be bought from ticket machines, through the [at bus](https://www.at-bus.it/en/app) app, or directly on board using a contactless credit/debit card. 
 
 Another convenient way of getting around Florence is by bike. The city has an extensive network of cycle lanes and a bike-sharing service operated by [RideMovi](https://www.ridemovi.com/it/).
