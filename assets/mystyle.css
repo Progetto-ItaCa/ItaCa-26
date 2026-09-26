@@ -83,9 +83,11 @@ nav a {
 }
 
 .workshop-brand {
+	float: left;
 	display: flex;
 	align-items: center;
 	gap: 1rem;
+	height: 54px;
 }
 
 .workshop-logo {
@@ -106,6 +108,7 @@ nav a {
 	color: #97492C;
 	text-decoration: none;
 	text-transform: uppercase;
+	line-height: 1;
 }
 
 .workshop-home:hover {
