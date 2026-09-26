@@ -211,6 +211,12 @@ footer {
 
 /* RESPONSIVE */
 
+@media (min-width: 900px) {
+	.site-header .wrapper {
+		max-width: 1000px;
+	}
+}
+
 @media (min-width: 640px) {
 	body {
 		font-family: 'Montserrat', sans-serif;
