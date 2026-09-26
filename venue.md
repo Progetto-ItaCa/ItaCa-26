@@ -5,23 +5,22 @@ permalink: /venue/
 layout: page
 ---
 
+<div class="venue-grid">
 
-### Venue
-
-<div class="venue-info">
+  <div class="venue-info">
     <h3>Venue</h3>
 
     <p>
       Centro Didattico Morgagni<br>
       Università degli Studi di Firenze<br>
-      Viale Giovanni Battista Morgagni 40-44<br>
+      Viale Giovanni Battista Morgagni 40–44<br>
       50134 Firenze, Italia
     </p>
   </div>
 
   <div class="venue-map">
     <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2879.6683085272352!2d11.245166399999999!3d43.8004953!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132a568417b78171%3A0x654bf8c1e3fb63f2!2sUniversit%C3%A0%20degli%20Studi%20di%20Firenze%20-%20Centro%20Didattico%20Morgagni!5e0!3m2!1sit!2sfr!4v1790372866748!5m2!1sit!2sfr"
+      src="YOUR-CURRENT-GOOGLE-MAPS-URL-HERE"
       style="border:0;"
       allowfullscreen=""
       loading="lazy"
