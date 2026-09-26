@@ -250,8 +250,8 @@ footer {
 	align-items: baseline;
 	width: 100%;
 	gap: 1rem;
-	padding-left: 0.4rem;
-	padding-right: 0.4rem;
+	padding-left: 0rem;
+	padding-right: 0rem;
 	box-sizing: border-box;
 }
 
@@ -269,8 +269,8 @@ footer {
 @media (min-width: 900px) {
 	.site-header .wrapper {
 		max-width: 1000px;
-		padding-left: 0.4rem;
-		padding-right: 0.4rem;
+		padding-left: 0;
+		padding-right: 0;
 	}
 }
 
