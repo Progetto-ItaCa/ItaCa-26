@@ -8,8 +8,7 @@ layout: home
 
 ItaCa Workshop is a series of short workshops organized by [ItaCa](https://progetto-itaca.github.io), the Italian community of category theorists. The focus lies on the development and applications of category theory. Students and early career researchers are particularly encouraged to attend and to submit talk proposals.
 
-The workshop will take place in person.
-The program will start on the morning of December 21 and continue until the morning of December 22, possibly extending to the afternoon depending on the number of contributed talks.
+This year, the workshop takes place in Firenze. The program will start on the morning of December 21 and continue until the morning of December 22, possibly extending to the afternoon depending on the number of contributed talks.
 
 
 ## Important Dates
