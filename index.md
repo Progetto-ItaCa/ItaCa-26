@@ -16,7 +16,7 @@ This year, the workshop takes place in Firenze. The program will start on the mo
 <div class="important-dates" markdown="1">
 
 |**Submission**    | 12 November 2026 |
-|**Notification**  | 29 November 2026 |
+|**Notification**  | 19 November 2026 |
 |**Registration**  |  8 December 2026 |
 |**Workshop**      | 21-22 December 2026 |
 
