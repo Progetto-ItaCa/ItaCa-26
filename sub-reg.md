@@ -7,8 +7,9 @@ layout: page
 {%- comment -%} 
 If you wish to participate, please fill in the google form available at [this link](https://forms.gle/ySwnNUU6ymPkzdCt8). 
 
-The registration deadline is **December 8**.
 {%- endcomment -%}
+
+The registration deadline is **December 8**.
 
 Participation is free of charge, but registration is mandatory. 
 
