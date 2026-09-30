@@ -62,7 +62,7 @@ The venue is Centro Didattico Morgagni, viale Giovanni Battista Morgagni 40–44
 
 ###  Practical information
 
-A standard urban ticket in Florence is valid for 90 minutes and can be used on buses and trams. The current fare is €1.70. Tickets can be bought from ticket machines, through the [at bus](https://www.at-bus.it/en/app) app, or directly on board using a contactless credit/debit card. 
+A standard urban ticket in Florence is valid for 90 minutes and can be used on buses and trams. The current fare is €2. Tickets can be bought from ticket machines, through the [at bus](https://www.at-bus.it/en/app) app, or directly on board using a contactless credit/debit card. 
 
 Another convenient way of getting around Florence is by bike. The city has an extensive network of cycle lanes and a bike-sharing service operated by [RideMovi](https://www.ridemovi.com/it/).
 
