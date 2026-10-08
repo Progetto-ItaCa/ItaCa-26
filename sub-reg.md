@@ -14,11 +14,11 @@ The registration deadline is **December 8**.
 
 ## Submission of talk proposals
 
-If you wish to give a talk, please submit an abstract of at most one page (excluding references) in PDF format, by sending an email to 
+Participants are invited to submit proposals for contributed talks, which should be approximately 30 minutes long including questions.  
 
-giuseppe [dot] metere [at] unimi [dot] it 
+If you wish to give a talk, please submit an abstract of at most one page (excluding references) in PDF format by sending an email to **Giuseppe Metere** at `giuseppe [dot] metere [at] unimi [dot] it`. 
 
-no later than **November 12**. Talks will be approximately 30 minutes long.
+The submission deadline is **November 12**. 
 
 
 ## Social Dinner 
