@@ -29,6 +29,12 @@ h1, h2, h3, h4, h5 {
 	color: #351E24;
 }
 
+.email-address {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	color: #97492C;
+}
+
 /* SECTION SPACING */
 
 .page-content h2 {
