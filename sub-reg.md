@@ -4,10 +4,8 @@ permalink: /register-submit/
 
 layout: page
 ---
-{%- comment -%} 
-If you wish to participate, please fill in the google form available at [this link](https://forms.gle/ySwnNUU6ymPkzdCt8). 
 
-{%- endcomment -%}
+If you wish to participate, please fill in the google form available at [this link](https://forms.gle/eWThUQh4nWCBNKkc9). 
 
 The registration deadline is **December 8**.
 
