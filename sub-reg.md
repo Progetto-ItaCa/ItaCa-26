@@ -13,20 +13,14 @@ The registration deadline is **December 8**.
 
 Participation is free of charge, but registration is mandatory. 
 
-{% comment %} 
 ## Submission of talk proposals
 
 If you wish to give a talk, please submit an abstract (max 1 page in pdf excluding references), by sending an email to 
 
-luca [dot] reggio [at] unimi [dot] it 
-
-or to 
-
-gabriele [dot] lobbia [at] unimi [dot] it 
+giuseppe [dot] metere [at] unimi [dot] it 
 
 no later than **November 12**. Talks will be approximately 30 minutes long.
 
-{% endcomment %} 
 
 ## Social Dinner 
 
