@@ -7,7 +7,7 @@ layout: page
 
 Participation is free of charge, but registration is mandatory. 
 
-If you wish to participate, please fill in the google form available at [this link](https://forms.gle/eWThUQh4nWCBNKkc9). 
+If you wish to participate, please fill in the form available at [this link](https://forms.gle/eWThUQh4nWCBNKkc9). 
 
 The registration deadline is **December 8**.
 
