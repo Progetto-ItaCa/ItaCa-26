@@ -1,6 +1,6 @@
 - name: Giuseppe
   surname: Metere
-  affiliation: DeFENS - Università degli Studi di Milano
+  affiliation: DeFENS, Università degli Studi di Milano
 
 - name: Marco
   surname: Abbadini
@@ -8,7 +8,7 @@
 
 - name: Umberto
   surname: Tarantino
-  affiliation: IRIF - Université Paris Cité
+  affiliation: IRIF, Université Paris Cité
 
 - name: Fabio
   surname: Gadducci
@@ -20,7 +20,7 @@
 
 - name: Amir Homayoun
   surname: Nejah
-  affiliation: Soft Computing and AI Center - Shahid Beheshti University
+  affiliation: Soft Computing and AI Center, Shahid Beheshti University
 
 - name: Francesco
   surname: Tognetti
@@ -116,4 +116,4 @@
 
 - name: Matteo
   surname: Capucci
-  affiliation: University of Strathclyde - Independent researcher
+  affiliation: University of Strathclyde, Independent researcher
