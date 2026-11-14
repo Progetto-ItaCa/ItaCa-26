@@ -22,7 +22,7 @@ If you wish to give a talk, please submit an abstract of at most one page (exclu
 The submission deadline is **November 12**. 
 -->
 
-Submissions of proposals for contributed talks are now closed.
+Submissions for contributed talks are now closed.
 
 ## Social Dinner 
 
