@@ -31,7 +31,7 @@ layout: page
 
 </div>
 
-### How to get to Florence 
+## How to get to Florence 
  
 Florence is the capital of Tuscany, in central Italy. You can easily get there by plane, train or bus.
 
@@ -45,7 +45,7 @@ If you travel by train, the main railway station is **[Firenze Santa Maria Novel
 If you travel by bus, you can arrive at **[Villa Costanza](https://maps.app.goo.gl/zHcJe4vYSFf6uC3f7)**, a major long-distance coach stop, directly connected to the city centre by tram line T1.
 
  
-### How to get to the venue
+## How to get to the venue
 
 The closest tram stop is [Morgagni–Università](https://maps.app.goo.gl/5oAhFg3dk1LdFtWP8), just a short walk from the entrance. The nearest bus stops are [Morgagni Careggi](https://maps.app.goo.gl/1dB9CooETqUQkMW47) and [Santo Stefano In Pane](https://maps.app.goo.gl/DjtfHzVfEWLwppCt6).
 
@@ -58,13 +58,13 @@ The closest tram stop is [Morgagni–Università](https://maps.app.goo.gl/5oAhFg
 - From Villa Costanza: take tram line T1 towards Careggi–Ospedale and get off directly at [Morgagni–Università](https://maps.app.goo.gl/5oAhFg3dk1LdFtWP8). The journey takes about 40 minutes.
 
 
-###  Practical information
+##  Practical information
 
 A standard urban ticket in Florence is valid for 90 minutes and can be used on buses and trams. The current fare is €2. Tickets can be bought from ticket machines, through the at bus app, or directly on board using a contactless credit/debit card.
 
 Another convenient way of getting around Florence is by bike. The city has an extensive network of cycle lanes and a bike-sharing service operated by [RideMovi](https://www.ridemovi.com/it/).
 
-# Where to eat nearby
+## Where to eat nearby
 
 #### [Largo Brambilla](https://maps.app.goo.gl/FckEuuKsppxyzQBs5) (5-minute walk)
 
@@ -98,7 +98,7 @@ Another convenient way of getting around Florence is by bike. The city has an ex
 - [Pasticceria Crociani](https://maps.app.goo.gl/JJ99EyfhMP3aey1r7): An Italian pastry café for coffee and a sweet breakfast or afternoon break.
 - [Caffè Pasticceria Serafini](https://maps.app.goo.gl/kTEAJUigrtB84VWAA): A café and pastry shop, ideal for a coffee and something sweet.
 
-# Accommodation
+## Accommodation
 
 - [Hotel Corolle (⭒⭒⭒)](https://www.booking.com/hotel/it/corolle.html): 500 m from the venue.
 - [B&B Bruna](https://www.bebbruna.com/): 500 m from the venue.
