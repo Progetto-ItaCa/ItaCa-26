@@ -138,3 +138,11 @@ For inquiries, please send an e-mail to one of the organisers.
   <span>·</span>
   <a href="http://www.mat.unimi.it/users/itaca">2019</a>
 </div>
+
+
+<div class="supporters">
+  <a href="https://www.dimai.unifi.it/" target="_blank" rel="noopener">
+    <img src="{{ '/assets/images/dimai.png' | relative_url }}"
+         alt="Dipartimento di Matematica e Informatica ''Ulisse Dini'', Università degli Studi di Firenze">
+  </a>
+</div>
