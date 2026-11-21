@@ -12,9 +12,9 @@ This year, the workshop takes place in Firenze. The program will start on the mo
 
 Participation is free of charge, but registration is mandatory. If you wish to participate, please fill in the form available at [this link](https://forms.gle/eWThUQh4nWCBNKkc9), no later than **December 8**.
 
-Participants are invited to submit proposals for contributed talks, which should be approximately 30 minutes long including questions. If you wish to give a talk, please submit an abstract of at most one page (excluding references) in PDF format by sending an email to **Giuseppe Metere** at <span class="email-address">giuseppe [dot] metere [at] unimi [dot] it</span>, no later than **November 12**. Notification of acceptance will be sent by **November 19**. 
+<!-- Participants are invited to submit proposals for contributed talks, which should be approximately 30 minutes long including questions. If you wish to give a talk, please submit an abstract of at most one page (excluding references) in PDF format by sending an email to **Giuseppe Metere** at <span class="email-address">giuseppe [dot] metere [at] unimi [dot] it</span>, no later than **November 12**. Notification of acceptance will be sent by **November 19**. -->
 
-Students and early career researchers are particularly encouraged to attend and submit talk proposals.
+Students and early career researchers are particularly encouraged to attend. <!--and submit talk proposals.-->
 
 
 ## Important Dates
