@@ -13,7 +13,7 @@
     - { type: talk, id: "9", start: "14:50", end: "15:15" }
     - { type: break, label: "Coffee break", start: "15:15", end: "15:45" }
     - { type: talk, id: "10", start: "15:45", end: "16:10" }
-    - { type: guest, id: "guest", start: "16:10", end: "17:10" }
+    - { type: guest, id: "guest", start: "16:10", end: "17:00" }
 
 - day: "Tuesday 22 December"
   slots:
