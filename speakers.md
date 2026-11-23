@@ -4,8 +4,6 @@ permalink: /speakers/
 layout: page
 ---
 
-TBA
-
 {% assign talks = site.data.talks.accepted %}
 
 {% if site.data.talks.invited %}

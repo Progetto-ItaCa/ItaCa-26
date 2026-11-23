@@ -1,3 +1,100 @@
-accepted: []
-
-invited: []
+# ItaCa 2026 talks. Add slot: "1"–"19" for contributed talks when scheduled.
+# Add abs: "filename.pdf" only after uploading the PDF to assets/abstracts/.
+accepted:
+- author:
+    name: Marco
+    surname: Abbadini
+    affiliation: Université Catholique de Louvain
+  title: A topos for étale-finite Heyting algebras
+- author:
+    name: Igor
+    surname: Baković
+  title: Enhanced modules and the sizes of a Yoneda structure
+- author:
+    name: Matteo
+    surname: Capucci
+    affiliation: University of Strathclyde, Independent researcher
+  title: The Universal Property of the Behavioural Theory of Systems
+- author:
+    name: Luigi
+    surname: Caputi
+    affiliation: Università degli Studi di Modena e Reggio Emilia
+  title: On the K-theory of matroids with Tutte coverings
+- author:
+    name: Eleftherios
+    surname: Chatzitheodoridis
+    affiliation: Virginia Commonwealth University
+  title: Trees associated with unitary partition complexes
+- author:
+    name: Cipriano Junior
+    surname: Cioffo
+  title: A Doctrine for Bayesian Update
+- author:   
+    name: Logan
+    surname: Geenis
+    affiliation: Université Catholique de Louvain
+  title: '“2-nil or not 2-nil, that is the question”: a new perspective on two-step nilpotent varieties'
+- author:
+    name: Andrea
+    surname: Giusto
+    affiliation: Università degli Studi di Genova
+  title: 'Comprehending differentiation: a fibrational approach to higher order differentiation'
+- author:
+    name: Manuel
+    surname: Mancini
+    affiliation: Université Catholique de Louvain
+  title: Algebraic coherence and action accessibility in varieties of skew braces
+- author:
+    name: Samuele
+    surname: Maschio
+    affiliation: Università degli Studi di Padova
+  title: Towards a categorical account of relativization
+- author:
+    name: Luca
+    surname: Mesiti
+    affiliation: Vrije Universiteit Brussel
+  title: 2-categorical universal algebra
+- author:
+    name: Ming
+    surname: Ng
+  title: Double-categorical frameworks for K-theory
+- author:
+    name: Michele
+    surname: Riva
+  title: Normalisation of S-monads
+- author:
+    name: Gabriel
+    surname: Saadia
+    affiliation: Stockholm University
+  title: 'Categorified convergence: dropping the ‘ultra’ from ‘virtual ultracategories’'
+- author:
+    name: Pietro
+    surname: Sabelli
+    affiliation: Università degli Studi di Padova
+  title: On the Equivalence between Categorical Structures and Dependent Type Theories
+- author:
+    name: Chiara
+    surname: Sava
+  title: TBA
+- author:
+    name: Umberto
+    surname: Tarantino
+    affiliation: IRIF, Université Paris Cité
+  title: Conceptual completions of doctrines
+- author:
+    name: Thomas Krishna
+    surname: Waring
+    affiliation: Università Roma Tre
+  title: Lattice Models of Linear Logic
+- author:
+    name: Joshua
+    surname: Wrigley
+    affiliation: Masarykova Univerzita
+  title: The subtopos of existentially closed models
+invited:
+- slot: guest
+  author:
+    name: Alberto
+    surname: Peruzzi
+    affiliation: Università degli Studi di Firenze
+  title: The Development of Category Theory in Italy (1973–2003)

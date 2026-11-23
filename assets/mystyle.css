@@ -372,12 +372,15 @@ footer {
     display: block;
     font-weight: 600;
     line-height: 1.4;
+    font-size: 1.55rem;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .programme-title {
     display: block;
     margin-top: 0.25rem;
     line-height: 1.4;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .programme-guest-label {
