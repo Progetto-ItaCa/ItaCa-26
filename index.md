@@ -72,7 +72,7 @@ Students and early career researchers are particularly encouraged to attend. <!-
 
   <li>
     <span class="committee-name">Giacomo Tendas</span>
-    <span class="committee-affiliation">University of Manchester</span>
+    <span class="committee-affiliation">The University of Manchester</span>
   </li>
 
 </ul>
