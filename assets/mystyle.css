@@ -91,7 +91,6 @@ nav a {
 }
 
 .site-header .wrapper {
-	border-bottom: 0.3rem solid #351E24;
 	padding-top: 0.8rem;
 	padding-bottom: 0.8rem;
 }
@@ -270,66 +269,6 @@ footer {
 	gap: 0.6rem;
 }
 
-/* RESPONSIVE */
-
-@media (min-width: 900px) {
-	.site-header .wrapper {
-		max-width: 1000px;
-		padding-left: 0;
-		padding-right: 0;
-	}
-}
-
-@media (min-width: 640px) {
-	body {
-		font-family: 'Montserrat', sans-serif;
-	}
-}
-
-@media (max-width: 600px) {
-	.page-heading {
-		font-size: 36px;
-	}
-
-	.workshop-footer {
-		flex-direction: column;
-	}
-
-	.committee-grid {
-		grid-template-columns: 1fr;
-		gap: 0;
-	}
-
-	.committee-grid li {
-		font-size: 1.6rem;
-	}
-
-	.venue-grid {
-		grid-template-columns: 1fr;
-		gap: 1.5rem;
-	}
-
-	.venue-map iframe {
-		height: 300px;
-	}
-
-	.participant-grid {
-		grid-template-columns: 1fr;
-	}
-}
-
-@media (min-width: 800px) {
-	.page-content .wrapper,
-	.site-footer .wrapper {
-		max-width: 770px;
-		padding-left: 15px;
-		padding-right: 15px;
-	}
-}
-
-
-
-
 /* LOCAL INFO */ 
 
 .venue-grid {
@@ -396,3 +335,263 @@ footer {
 	max-width: 100%;
 	height: auto;
 }
+
+
+/* PROGRAMME */
+
+.programme-day {
+    margin-top: 2.8rem;
+    margin-bottom: 1.2rem;
+}
+
+.programme-table {
+    width: 100%;
+    table-layout: fixed;
+    margin-bottom: 2rem;
+}
+
+.programme-table td {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    vertical-align: top;
+}
+
+.programme-time {
+    width: 13%;
+    text-align: center;
+    vertical-align: middle !important;
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+}
+
+.programme-details {
+    padding-left: 3rem !important;
+}
+
+.programme-speaker {
+    display: block;
+    font-weight: 600;
+    line-height: 1.4;
+}
+
+.programme-title {
+    display: block;
+    margin-top: 0.25rem;
+    line-height: 1.4;
+}
+
+.programme-guest-label {
+    display: inline-block;
+    margin-left: 0.8rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.15rem;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #97492C;
+    vertical-align: baseline;
+}
+
+.programme-break .programme-details {
+    font-style: italic;
+}
+
+.programme-note {
+    text-align: center;
+    margin-top: 1.5rem;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.5;
+}
+
+/* SPEAKERS */
+
+.speaker-list {
+    margin-top: 2rem;
+}
+
+.speaker-entry {
+    margin-bottom: 2rem;
+}
+
+.speaker-name {
+    font-size: 1.55rem;
+    font-weight: 600;
+    line-height: 1.4;
+    color: #351E24;
+}
+
+.speaker-affiliation {
+    display: block;
+    font-size: 1.35rem;
+    line-height: 1.4;
+}
+
+.speaker-talk-title {
+    display: block;
+    margin-top: 0.35rem;
+    line-height: 1.5;
+}
+
+/* RESPONSIVE */
+
+@media (min-width: 1150px) {
+    .site-header {
+        display: block;
+    }
+
+    .site-header .wrapper {
+        display: flex;
+        justify-content: center;
+        max-width: none;
+        width: 100%;
+        padding: 0;
+        border: none;
+    }
+
+    .site-header .header-inner {
+        display: inline-flex;
+        align-items: center;
+        flex: 0 0 auto;
+        gap: 2rem;
+        padding: 0.8rem 0;
+        border-bottom: 0.3rem solid #351E24;
+    }
+
+    .workshop-brand {
+        float: none;
+        flex-shrink: 0;
+        gap: 2rem;
+    }
+
+    .site-nav {
+        float: none;
+        line-height: 1.2;
+    }
+
+    .site-nav .trigger {
+        display: flex;
+        align-items: center;
+        gap: 2rem;
+    }
+
+    .site-nav .page-link {
+        margin: 0 !important;
+        white-space: nowrap;
+    }
+}
+
+@media (max-width: 1149px) {
+    .site-nav {
+        position: absolute;
+        top: 9px;
+        right: 15px;
+        float: none;
+        background-color: #FCE8AD;
+        border: 1px solid #351E24;
+        border-radius: 3px;
+        text-align: right;
+        z-index: 10;
+    }
+
+    .site-nav label[for="nav-trigger"] {
+        display: block;
+        float: right;
+        width: 36px;
+        height: 36px;
+        cursor: pointer;
+    }
+
+    .site-nav .menu-icon {
+        display: block;
+        float: right;
+        width: 36px;
+        height: 26px;
+        line-height: 0;
+        padding-top: 10px;
+        text-align: center;
+    }
+
+    .site-nav .menu-icon svg {
+        fill: #351E24;
+    }
+
+    .site-nav input ~ .trigger {
+        clear: both;
+        display: none;
+    }
+
+    .site-nav input:checked ~ .trigger {
+        display: block;
+        padding-bottom: 5px;
+    }
+
+    .site-nav .page-link {
+        display: block;
+        padding: 5px 10px;
+        margin-left: 20px;
+    }
+
+	.site-header .header-inner {
+		min-height: 54px;
+		border-bottom: 0.3rem solid #351E24;
+	}
+}
+
+@media (min-width: 640px) {
+	body {
+		font-family: 'Montserrat', sans-serif;
+	}
+}
+
+@media (max-width: 600px) {
+	.page-heading {
+		font-size: 36px;
+	}
+
+	.workshop-footer {
+		flex-direction: column;
+	}
+
+	.committee-grid {
+		grid-template-columns: 1fr;
+		gap: 0;
+	}
+
+	.committee-grid li {
+		font-size: 1.6rem;
+	}
+
+	.venue-grid {
+		grid-template-columns: 1fr;
+		gap: 1.5rem;
+	}
+
+	.participant-grid {
+		grid-template-columns: 1fr;
+		margin-right: 0;
+	}
+
+	.venue-map iframe {
+		height: 300px;
+	}
+
+    .programme-time {
+        width: 18%;
+        font-size: 1.3rem;
+    }
+
+    .programme-details {
+        padding-left: 1.2rem !important;
+    }
+}
+
+@media (min-width: 800px) {
+	.page-content .wrapper,
+	.site-footer .wrapper {
+		max-width: 770px;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+}
+
