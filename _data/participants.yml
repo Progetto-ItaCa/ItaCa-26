@@ -141,3 +141,19 @@
 - name: Luca
   surname: Mesiti
   affiliation: Vrije Universiteit Brussel
+
+- name: Thomas
+  surname: Waring
+  affiliation: Università Roma Tre
+
+- name: Luigi
+  surname: Caputi
+  affiliation: Università degli Studi di Modena e Reggio Emilia
+
+- name: Vieri
+  surname: Sbandati
+  affiliation: University of Bonn
+
+- name: Luca
+  surname: Pollastri
+  affiliation: Università degli Studi di Pisa
