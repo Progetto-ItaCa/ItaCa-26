@@ -74,16 +74,19 @@
     \itaca@masthead
     \vspace{8mm}
     {\raggedright\hyphenpenalty=10000
-     \itaca@display\fontsize{22}{25}\selectfont\color{ItacaPlum}\@title\par
-     % Give a single-line title more room above the speaker details.
-     \ifnum\prevgraf=1\relax\vspace{5mm}\else\vspace{2.8mm}\fi}
+     \itaca@display\fontsize{22}{25}\selectfont\color{ItacaPlum}\@title\par}
+    % Fixed distance from the last title line's box to the top of the gold rule.
+    \vskip 5mm\relax
+    \nointerlineskip
     \itaca@speaker
     \vspace{2mm}
   \endgroup}
 
 \renewenvironment{abstract}{%
   \section*{\abstractname}%
-  \setlength{\parindent}{0pt}\setlength{\parskip}{.48\baselineskip plus 1pt}%
+  \setlength{\parindent}{0pt}\setlength{\parskip}{0pt}%
+  % The section heading supplies the first gap. Space subsequent paragraphs only.
+  \AddToHookNext{para/begin}{\setlength{\parskip}{.48\baselineskip plus 1pt}}%
   \ignorespaces}{\par}
 
 % EasyChair retains control of bibliography spacing and numbering.
