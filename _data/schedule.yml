@@ -13,18 +13,20 @@
     - { type: talk, id: "9", start: "14:50", end: "15:15" }
     - { type: break, label: "Coffee break", start: "15:15", end: "15:45" }
     - { type: talk, id: "10", start: "15:45", end: "16:10" }
-    - { type: guest, id: "guest", start: "16:10", end: "17:00" }
+    - { type: talk, id: "11", start: "16:10", end: "16:35" }
+    - { type: guest, id: "guest", start: "16:35", end: "17:25" }
 
 - day: "Tuesday 22 December"
   slots:
-    - { type: talk, id: "11", start: "09:00", end: "09:25" }
-    - { type: talk, id: "12", start: "09:25", end: "09:50" }
-    - { type: talk, id: "13", start: "09:50", end: "10:15" }
+    - { type: talk, id: "12", start: "09:00", end: "09:25" }
+    - { type: talk, id: "13", start: "09:25", end: "09:50" }
+    - { type: talk, id: "14", start: "09:50", end: "10:15" }
     - { type: break, label: "Coffee break", start: "10:15", end: "10:45" }
-    - { type: talk, id: "14", start: "10:45", end: "11:10" }
-    - { type: talk, id: "15", start: "11:10", end: "11:35" }
-    - { type: talk, id: "16", start: "11:35", end: "12:00" }
+    - { type: talk, id: "15", start: "10:45", end: "11:10" }
+    - { type: talk, id: "16", start: "11:10", end: "11:35" }
+    - { type: talk, id: "17", start: "11:35", end: "12:00" }
     - { type: break, label: "Lunch break", start: "12:00", end: "14:00" }
-    - { type: talk, id: "17", start: "14:00", end: "14:25" }
-    - { type: talk, id: "18", start: "14:25", end: "14:50" }
-    - { type: talk, id: "19", start: "14:50", end: "15:15" }
+    - { type: talk, id: "18", start: "14:00", end: "14:25" }
+    - { type: talk, id: "19", start: "14:25", end: "14:50" }
+    - { type: talk, id: "20", start: "14:50", end: "15:15" }
+    - { type: talk, id: "21", start: "15:15", end: "15:40" }

@@ -21,6 +21,11 @@ accepted:
     affiliation: Università degli Studi di Modena e Reggio Emilia
   title: On the K-theory of matroids with Tutte coverings
 - author:
+    name: Elena
+    surname: Caviglia
+    affiliation: Stellenbosch University
+  title: 2-categorical algebra in 2-categories of lattices
+- author:
     name: Eleftherios
     surname: Chatzitheodoridis
     affiliation: Virginia Commonwealth University
@@ -30,6 +35,11 @@ accepted:
     surname: Cioffo
     affiliation: Università degli Studi di Pisa
   title: A Doctrine for Bayesian Update
+- author:
+    name: Matthew 
+    surname: Di Meglio
+    affiliation: Laboratoire Méthodes Formelles, Inria, CNRS, ENS Paris-Saclay, Université Paris-Saclay
+  title: 'Independence is all you need: composing co-relations without pushouts'
 - author:   
     name: Logan
     surname: Geenis
