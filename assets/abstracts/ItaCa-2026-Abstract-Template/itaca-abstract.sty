@@ -42,7 +42,7 @@
   \vspace{2.6mm}%
   {\color{ItacaClay}\hrule height .45pt}}
 
-% The accent spans the actual height of the name and contact details.
+% The accent spans the actual height of the speaker details and optional collaborator credit.
 \newcommand*{\itaca@speaker}{%
   \noindent\hbox{\color{ItacaGold}\vrule width 2.5pt\hspace{3mm}%
     \begin{minipage}{\dimexpr\linewidth-2.5pt-3mm\relax}
@@ -56,6 +56,15 @@
         {\fontsize{9}{12}\selectfont\urlstyle{same}%
          \href{mailto:\itaca@email}{\expandafter\nolinkurl\expandafter{\itaca@email}}\strut\par}
       \fi
+      \ifx\itaca@joint\@empty\else
+        \vspace{2mm}
+        {\raggedright
+         \setbox\z@=\hbox{{\itaca@display\fontsize{8}{10}\selectfont
+           \color{ItacaClay}\textls[50]{JOINT WORK WITH}}\hspace{2.2mm}}%
+         \hangindent=\wd\z@ \hangafter=1
+         \itaca@sans\fontsize{9.5}{12}\selectfont\color{ItacaPlum}%
+         \noindent\box\z@\ignorespaces\itaca@joint\strut\par}
+      \fi
     \end{minipage}}\par}
 
 \renewcommand*{\@maketitle}{%
@@ -65,19 +74,15 @@
     \itaca@masthead
     \vspace{8mm}
     {\raggedright\hyphenpenalty=10000
-     \itaca@display\fontsize{22}{25}\selectfont\color{ItacaPlum}\@title\par}
-    \vspace{2.8mm}
+     \itaca@display\fontsize{22}{25}\selectfont\color{ItacaPlum}\@title\par
+     % Give a single-line title more room above the speaker details.
+     \ifnum\prevgraf=1\relax\vspace{5mm}\else\vspace{2.8mm}\fi}
     \itaca@speaker
-    \ifx\itaca@joint\@empty\else
-      \vspace{3mm}
-      {\raggedright\fontsize{10}{13}\selectfont\color{ItacaPlum}%
-       \textit{Joint work with} \itaca@joint\par}
-    \fi
-    \vspace{6mm}
+    \vspace{2mm}
   \endgroup}
 
 \renewenvironment{abstract}{%
-  \par\noindent\itaca@label{Abstract}\par\nobreak\vspace{2mm}%
+  \section*{\abstractname}%
   \setlength{\parindent}{0pt}\setlength{\parskip}{.48\baselineskip plus 1pt}%
   \ignorespaces}{\par}
 

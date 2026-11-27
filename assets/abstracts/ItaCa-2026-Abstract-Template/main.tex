@@ -5,78 +5,18 @@
 \usepackage{itaca-abstract}
 \usepackage{tikz-cd} % Only needed for the example diagram.
 
-\title{Recovering a presheaf from its category of elements}
-\titlerunning{Recovering a presheaf from its category of elements} % Optional continuation header.
-\author{Ada Rossi}
-\institute{Dipartimento di Matematica, Università di Esempio}
-\speakeremail{ada.rossi@example.org}
-\jointwork{Elena Bianchi and Luca Ferri} % Omit this line for a solo talk.
+\title{Title}
+\titlerunning{Title running} % Optional continuation header.
+\author{Name Surname}
+\institute{Affiliation}
+\speakeremail{email@example.org}
+\jointwork{collaborators} % Omit this line for a solo talk.
 
 \begin{document}
 \maketitle
 
 \begin{abstract}
-For a small category $\mathcal C$, a presheaf $F$ on $\mathcal C$ assigns a set
-to each object and a restriction map to each arrow. Which of these data can we
-read off from a single functor? We take the category of elements of $F$ and
-keep track of its projection $p\colon\!\int F\to\mathcal C$.
-
-The fibre over $c$ recovers the set $F(c)$. To recover restriction along an
-arrow $u\colon c\to d$, choose $y\in F(d)$ and lift $u$ to the unique arrow
-with codomain $(d,y)$. Its domain tells us which element of $F(c)$ to choose.
-\[
-  \begin{tikzcd}[row sep=1.3em,column sep=3em]
-    (c,F(u)(y)) \arrow[r] \arrow[d,mapsto] & (d,y) \arrow[d,mapsto] \\
-    c \arrow[r,"u"'] & d
-  \end{tikzcd}
-\]
-Uniqueness of lifts forces the identity and composition laws for the recovered
-restriction maps. This gives the correspondence between presheaves on
-$\mathcal C$ and discrete fibrations over $\mathcal C$. In the representable
-case $F=\mathcal C(-,a)$, the category of elements is the slice
-$\mathcal C/a$ and lifting amounts to precomposition. We use this example to
-relate representability to the existence of a terminal object in the category
-of elements~\cite{riehl}.
-
-To see how the converse works, let $p\colon\mathcal E\to\mathcal C$ be a
-discrete fibration and write $F_p(c)$ for the set of objects above $c$,
-assuming these fibres are small. Given $y$ above $d$, define $F_p(u)(y)$ to
-be the domain of the lift of $u$ ending at $y$. A composable pair of arrows
-in the base has two apparent lifts with a prescribed codomain. We may lift
-the composite directly, or lift the two arrows successively and compose.
-Uniqueness identifies the two lifts, including their domains. This is exactly
-the contravariant functoriality of $F_p$.
-
-We can now compare the two total categories directly. An object $e$ of
-$\mathcal E$ gives the pair $(p(e),e)$ in the category of elements of $F_p$.
-For objects $e$ and $e'$, an arrow between the corresponding pairs consists
-of an arrow $u\colon p(e)\to p(e')$ whose lift ending at $e'$ starts at $e$.
-Thus forgetting down to $u$ and lifting back are inverse operations on arrows.
-The comparison is an isomorphism over $\mathcal C$. A natural transformation
-$F\to G$ likewise gives a functor between the categories of elements over
-$\mathcal C$, by applying its component at $c$ to the chosen element over $c$.
-
-Finally, the criterion for representability has a concrete interpretation.
-An element $t\in F(a)$ gives, for each object $c$, a function
-\[
-   \mathcal C(c,a)\longrightarrow F(c),
-   \qquad u\longmapsto F(u)(t).
-\]
-For a fixed $x\in F(c)$, its preimages are precisely the arrows from $(c,x)$
-to $(a,t)$ in the category of elements. The functions are therefore bijective
-for every $c$ exactly when $(a,t)$ is terminal. In the slice
-$\mathcal C/a$, the terminal object is the identity of $a$. Under a chosen
-representation it corresponds to the universal element $t$.
-
-For a concrete example, take $\mathcal C$ to be a skeleton of the category of
-finite sets and let $F$ send a finite set to its power set. An object of
-$\int F$ is a pair $(X,S)$ with $S\subseteq X$. An arrow from $(X,S)$ to
-$(Y,T)$ is a function $f\colon X\to Y$ satisfying $S=f^{-1}(T)$. What would
-a terminal pair look like? For $2=\{0,1\}$ and $T=\{1\}$, every subset
-$S\subseteq X$ determines exactly one such function $X\to 2$, its
-characteristic function. Thus $(2,\{1\})$ is terminal. Reading off the
-representing object from this pair recovers $2$, while its distinguished
-subset records which of the two values means membership.
+Your abstract here, including any reference \cite{riehl}.
 \end{abstract}
 
 % Optional. Delete this environment if the abstract has no references.
