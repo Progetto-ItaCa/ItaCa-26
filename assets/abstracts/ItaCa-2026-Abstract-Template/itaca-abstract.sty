@@ -1,0 +1,98 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{itaca-abstract}[2026/11/27 ItaCa workshop abstracts]
+% Presentation layer for the official EasyChair 3.5 class, using pdfLaTeX.
+\RequirePackage[T1]{fontenc}
+\RequirePackage{lmodern}
+\RequirePackage{microtype}
+\RequirePackage{titlesec}
+
+\definecolor{ItacaPlum}{HTML}{351E24}
+\definecolor{ItacaClay}{HTML}{97492C}
+\definecolor{ItacaGold}{HTML}{FCE8AD}
+\definecolor{ItacaInk}{HTML}{000000}
+
+% Select the website faces locally, leaving normal text and math in Latin Modern.
+% Both families ship with TeX Live's montserrat and opensans packages.
+\newcommand*{\itaca@display}{\fontencoding{T1}\fontfamily{Montserrat-LF}\fontseries{semibold}\fontshape{n}\selectfont}
+\newcommand*{\itaca@sans}{\fontencoding{T1}\fontfamily{opensans-LF}\fontseries{m}\fontshape{n}\selectfont}
+\newcommand*{\itaca@label}[1]{{\itaca@display\fontsize{8}{10}\selectfont
+  \color{ItacaClay}\textls[95]{\MakeUppercase{#1}}}}
+\newcommand*{\itaca@url}{https://progetto-itaca.github.io/ItaCa-26/}
+\hypersetup{allcolors=ItacaClay,pdfdisplaydoctitle=true,
+  pdfsubject={7th ItaCa Workshop, Firenze, 21–22 December 2026}}
+
+% EasyChair's \author and \institute hold the speaker's name and affiliation.
+\providecommand*{\@institute}{}
+\newcommand*{\itaca@email}{}
+\newcommand*{\speakeremail}[1]{\gdef\itaca@email{#1}}
+\newcommand*{\itaca@joint}{}
+\newcommand{\jointwork}[1]{\gdef\itaca@joint{#1}}
+\pdfstringdefDisableCommands{\def\and{ and }}
+\AtBeginDocument{\color{ItacaInk}%
+  \hypersetup{pdftitle={\@title},pdfauthor={\@author}}}
+
+% Masthead: the official adjunction wordmark and the event's two-line imprint.
+\newcommand*{\itaca@masthead}{%
+  \noindent\href{\itaca@url}{\includegraphics[width=32mm]{assets/itaca-logo.png}}%
+  \hfill
+  \begin{tabular}[b]{@{}r@{}}
+    \itaca@label{7th ItaCa Workshop}\\[-1pt]
+    {\itaca@sans\fontsize{8.5}{11}\selectfont\color{ItacaPlum}Firenze\enspace·\enspace21--22 December 2026}
+  \end{tabular}\par
+  \vspace{2.6mm}%
+  {\color{ItacaClay}\hrule height .45pt}}
+
+% The accent spans the actual height of the name and contact details.
+\newcommand*{\itaca@speaker}{%
+  \noindent\hbox{\color{ItacaGold}\vrule width 2.5pt\hspace{3mm}%
+    \begin{minipage}{\dimexpr\linewidth-2.5pt-3mm\relax}
+      \raggedright\itaca@sans\color{ItacaInk}
+      {\fontseries{sb}\fontsize{12}{15}\selectfont\color{ItacaClay}%
+       \def\and{ and }\@author\strut\par}
+      \ifx\@institute\@empty\else
+        \vspace{1pt}{\fontsize{9.5}{12}\selectfont\@institute\strut\par}
+      \fi
+      \ifx\itaca@email\@empty\else
+        {\fontsize{9}{12}\selectfont\urlstyle{same}%
+         \href{mailto:\itaca@email}{\expandafter\nolinkurl\expandafter{\itaca@email}}\strut\par}
+      \fi
+    \end{minipage}}\par}
+
+\renewcommand*{\@maketitle}{%
+  \begingroup\setlength{\parindent}{0pt}\setlength{\parskip}{0pt}
+    % Use the otherwise empty first-page running head for the masthead.
+    \vspace*{-\dimexpr\headheight+\headsep\relax}%
+    \itaca@masthead
+    \vspace{8mm}
+    {\raggedright\hyphenpenalty=10000
+     \itaca@display\fontsize{22}{25}\selectfont\color{ItacaPlum}\@title\par}
+    \vspace{2.8mm}
+    \itaca@speaker
+    \ifx\itaca@joint\@empty\else
+      \vspace{3mm}
+      {\raggedright\fontsize{10}{13}\selectfont\color{ItacaPlum}%
+       \textit{Joint work with} \itaca@joint\par}
+    \fi
+    \vspace{6mm}
+  \endgroup}
+
+\renewenvironment{abstract}{%
+  \par\noindent\itaca@label{Abstract}\par\nobreak\vspace{2mm}%
+  \setlength{\parindent}{0pt}\setlength{\parskip}{.48\baselineskip plus 1pt}%
+  \ignorespaces}{\par}
+
+% EasyChair retains control of bibliography spacing and numbering.
+\titleformat{\section}{\itaca@display\small\color{ItacaPlum}}{\thesection}{.6em}{}
+\titlespacing*{\section}{0pt}{3mm plus 1mm}{1.3mm}
+
+% The first page carries the full masthead. Later pages use a running title.
+\newcommand*{\itaca@clearfields}{%
+  \fancyhf{}\renewcommand{\headrulewidth}{0pt}\renewcommand{\footrulewidth}{0pt}}
+\fancypagestyle{plain}{\itaca@clearfields}
+\fancypagestyle{itaca}{%
+  \itaca@clearfields
+  \fancyhead[L]{\itaca@sans\footnotesize\color{ItacaPlum}%
+    \iftitlerunningundefined 7th ItaCa Workshop\else\@titleRunning\fi}
+  \fancyhead[R]{\itaca@sans\footnotesize\color{ItacaClay}\thepage}}
+\pagestyle{itaca}
+\endinput
