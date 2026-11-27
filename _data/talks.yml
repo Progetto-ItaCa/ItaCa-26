@@ -14,7 +14,7 @@ accepted:
     name: Matteo
     surname: Capucci
     affiliation: University of Strathclyde, Independent researcher
-  title: The Universal Property of the Behavioural Theory of Systems
+  title: The universal property of the behavioural theory of systems
 - author:
     name: Luigi
     surname: Caputi
@@ -34,7 +34,7 @@ accepted:
     name: Cipriano Junior
     surname: Cioffo
     affiliation: Università degli Studi di Pisa
-  title: A Doctrine for Bayesian Update
+  title: A doctrine for Bayesian update
 - author:
     name: Matthew 
     surname: Di Meglio
@@ -84,7 +84,7 @@ accepted:
     name: Pietro
     surname: Sabelli
     affiliation: Università degli Studi di Padova
-  title: On the Equivalence between Categorical Structures and Dependent Type Theories
+  title: On the equivalence between categorical structures and dependent type theories
 - author:
     name: Chiara
     surname: Sava
@@ -99,7 +99,7 @@ accepted:
     name: Thomas Krishna
     surname: Waring
     affiliation: Università Roma Tre
-  title: Lattice Models of Linear Logic
+  title: Lattice Models of linear logic
 - author:
     name: Joshua
     surname: Wrigley
@@ -111,4 +111,4 @@ invited:
     name: Alberto
     surname: Peruzzi
     affiliation: Università degli Studi di Firenze
-  title: The Development of Category Theory in Italy (1973–2003)
+  title: The development of category theory in Italy (1973–2003)
